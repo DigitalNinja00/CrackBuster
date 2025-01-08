@@ -1,4 +1,4 @@
-# PhishCat version: 1.0
+# CrackBuster version: 1.0
 <center>
     <img src="image.png"><br>
 </center>
