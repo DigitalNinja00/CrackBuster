@@ -4,7 +4,7 @@
 </center>
 * 
 
-### web fuzzing tool programmed in Golan
+### web fuzzing tool programmed in Golang
 #### For arch based distros and Debian distros
 ### For Arch based distros
 ```
